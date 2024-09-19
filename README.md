@@ -31,5 +31,5 @@ Hints:
 +
 Certificates, freelancing, companies,hiring,positions
 20+ PowerBI Dashboards
-Desktop Application-Web Application  (Bonus)
+Desktop Application-Web Application
 
